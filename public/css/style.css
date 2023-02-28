@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 10px;
+    max-width:;
+}
+
+.item {
+    background-color: blue;
+    margin: 5px;
+    border-radius: 10px;
+    min-width: 100%;
+    min-height: 100px;
+}
+
+body {
+    background-color: azure;
+}
